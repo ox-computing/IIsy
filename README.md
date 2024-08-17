@@ -1,5 +1,7 @@
 # IIsy - In Network Inference Made Easy
 
+**For the newer IEEE/ACM ToN version of IIsy, visit [https://github.com/In-Network-Machine-Learning/IIsy](https://github.com/In-Network-Machine-Learning/IIsy)**
+
 # Introduction
 
 In-network classification refers to taking classification decision within network devices (e.g., switches, NICs), as the data goes through the network.
